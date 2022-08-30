@@ -1,4 +1,4 @@
-# ultimoProyecto
+# UltimoProyecto
 En esta aplicacion se ha utilizado Java con el entorno Eclipse y  my sql.
 Es la aplicacion de un taller, nos permite conocer cuales son sus empleados y tambien saber quienes son los clientes, tambien podemos ver los trabajos que se
 han realizado, y por ultimo la facturacion de cada trabajo.
